@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" align="center" style="width: 100%" />
+<img src="https://www.sharda.ac.in/blog/wp-content/uploads/2020/04/Data-Science-1.jpg" align="center" style="width: 100%" />
 </div>  
 
 # **<div align="center">I'm Nisha Rawat, a Data Scientist 👨‍💻 working remotely since 2020🚀</div>**  
@@ -53,7 +53,8 @@
 <div align="center">  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
+<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>
+<a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" alt="Sklearn" height="50" /></a>
 </div>
 </td></tr></table>  
 <br/>  
